@@ -34,6 +34,8 @@ To get started with the bot, follow these steps:
 
 ```json
 {
+  "doTasks": true,
+  "playGames": true,
   "limit": 5, //number of accounts run in a row
   "countdown": 300, //time to restarts all the accounts - count by seconds
   "country_time": "vi-VN" //timestamp base on the country
